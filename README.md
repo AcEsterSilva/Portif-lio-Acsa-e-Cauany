@@ -1,2 +1,3 @@
-# Portif-lio-Acsa-e-Cauany
-Projeto portifólio em dupla sobre nossa vida profissionalmente 
+# Portf-lio-Acsa
+Projeto portfólio - minha vida profissional
+Portfolio project - my professional life
